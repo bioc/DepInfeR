@@ -4,3 +4,5 @@ Changes in version 0.99.4 (2022-03-19)
 + Modify package according to comments from Bioconductor team
 Changes in version 0.99.7 (2022-04-05)
 + Modify package based on the comments from the second round revision
+Changes in version 1.3.1 (2023-04-04)
++ Add BiocStyle dependence in the DESCRIPTION file to avoid vingette build error on Linux
